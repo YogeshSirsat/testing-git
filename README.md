@@ -5,6 +5,7 @@ testing purpose
 * New feature two
 * New feature three
 * New feature four
+* New feature five
 
 **Version1**
 
@@ -14,3 +15,4 @@ testing purpose
 
 * Fourth new feature
 * Fourth V2 new feature
+* Fifth new feature
