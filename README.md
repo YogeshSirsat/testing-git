@@ -6,6 +6,7 @@ testing purpose
 * New feature three
 * New feature four
 * New feature five
+* New feature six
 
 **Version1**
 
